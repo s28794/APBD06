@@ -1,0 +1,6 @@
+@Animals_DB_HostAddress = http://localhost:5091
+
+GET {{Animals_DB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
